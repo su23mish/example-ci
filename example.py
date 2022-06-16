@@ -10,5 +10,5 @@ def subtract(ab,b):
 
 
 # this will be implemented later
-#def test_subtract():
-# assert subtract(2,3) == -1
+def test_subtract():
+  assert subtract(2,3) == -1
